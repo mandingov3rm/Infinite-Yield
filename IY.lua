@@ -11814,5 +11814,5 @@ Logo:Destroy()
 Credits:Destroy()
 IntroBackground:Destroy()
 wait(1)
-minimizeNum = 0
 minimizeHolder()
+execCmd(hideiy,Players.LocalPlayer,true)
