@@ -11813,5 +11813,5 @@ wait(0.2)
 Logo:Destroy()
 Credits:Destroy()
 IntroBackground:Destroy()
-minimizenum = 0
+minimizeNum = 0
 minimizeHolder()
